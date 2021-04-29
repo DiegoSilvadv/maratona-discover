@@ -5,7 +5,7 @@
 - [x] Adicionar uma transação
 - [x] Remover uma transação
 
-#Como executar o projeto
+# Como executar o projeto
 
 1. Clone o repositorio 
 ```
